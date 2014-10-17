@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[whu:home|Door43 (whu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-whu|d43-whu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-whu/archive/master.zip|d43-whu.zip]]
+
+**Recent Changes**
+{{changes>ns = whu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/whu|Ethnologue data]]
+
